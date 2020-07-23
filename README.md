@@ -2,6 +2,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SherlockQi&title_color=00FFBD&show_icons=true&icon_color=00FFBD&text_color=00FFBD&bg_color=01033F&hide_title=false" />
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherlockQi&hide_langs_below=0&theme=default" />
+
+
+
+
 <!--
 **SherlockQi/sherlockqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
